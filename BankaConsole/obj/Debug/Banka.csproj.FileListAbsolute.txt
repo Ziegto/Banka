@@ -1,0 +1,15 @@
+C:\Users\richard.nadkansky\Desktop\banka_c#\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\richard.nadkansky\Desktop\banka_c#\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\richard.nadkansky\Desktop\banka_c#\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\richard.nadkansky\Desktop\banka_c#\Banka\Banka\obj\Debug\Banka.csproj.AssemblyReference.cache
+C:\Users\richard.nadkansky\Desktop\banka_c#\Banka\Banka\obj\Debug\Banka.csproj.SuggestedBindingRedirects.cache
+C:\Users\richard.nadkansky\Desktop\banka_c#\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\richard.nadkansky\Desktop\banka_c#\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\richard.nadkansky\Desktop\banka_c#\Banka\Banka\obj\Debug\Banka.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\Banka\obj\Debug\Banka.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\Banka\obj\Debug\Banka.pdb

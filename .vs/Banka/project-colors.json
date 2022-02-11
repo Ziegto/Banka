@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a573697d-103e-4a69-a16f-2faba4ee8a02": {
+      "ProjectGuid": "a573697d-103e-4a69-a16f-2faba4ee8a02",
+      "DisplayName": "BankaConsole",
+      "ColorIndex": 0
+    },
+    "fb226637-58a4-4f76-9a80-c3f07f392f0e": {
+      "ProjectGuid": "fb226637-58a4-4f76-9a80-c3f07f392f0e",
+      "DisplayName": "BankaKnihovna",
+      "ColorIndex": 1
+    },
+    "ba9d1975-eeb8-48c3-a2c5-3083b477b046": {
+      "ProjectGuid": "ba9d1975-eeb8-48c3-a2c5-3083b477b046",
+      "DisplayName": "Banka_FORM",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a914d666-80a1-465c-a868-3b68c72a14ff": {
+      "ProjectGuid": "a914d666-80a1-465c-a868-3b68c72a14ff",
+      "DisplayName": "BankaForm",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

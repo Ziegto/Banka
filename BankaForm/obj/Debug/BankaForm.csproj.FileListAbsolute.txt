@@ -1,0 +1,42 @@
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.Form1.resources
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.Properties.Resources.resources
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.GenerateResource.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.CoreCompileInputs.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\bin\Debug\BankaForm.exe.config
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\bin\Debug\BankaForm.exe
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\bin\Debug\BankaForm.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\bin\Debug\BankaKnihovna.dll
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\bin\Debug\BankaKnihovna.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.AssemblyReference.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.CopyComplete
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.exe
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.pdb
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\bin\Debug\BankaForm.exe.config
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\bin\Debug\BankaForm.exe
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\bin\Debug\BankaForm.pdb
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\bin\Debug\BankaKnihovna.dll
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\bin\Debug\BankaKnihovna.pdb
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.Form1.resources
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.Properties.Resources.resources
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.csproj.CopyComplete
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.exe
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaForm\obj\Debug\BankaForm.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\bin\Debug\BankaForm.exe.config
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\bin\Debug\BankaForm.exe
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\bin\Debug\BankaForm.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\bin\Debug\BankaKnihovna.dll
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\bin\Debug\BankaKnihovna.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.csproj.AssemblyReference.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.Form1.resources
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.Properties.Resources.resources
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.csproj.GenerateResource.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.csproj.CoreCompileInputs.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.csproj.CopyComplete
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.exe
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaForm\obj\Debug\BankaForm.pdb

@@ -1,0 +1,7 @@
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaConsole\bin\Debug\Banka.exe.config
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaConsole\bin\Debug\Banka.exe
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaConsole\bin\Debug\Banka.pdb
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaConsole\obj\Debug\BankaConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaConsole\obj\Debug\BankaConsole.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaConsole\obj\Debug\Banka.exe
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaConsole\obj\Debug\Banka.pdb

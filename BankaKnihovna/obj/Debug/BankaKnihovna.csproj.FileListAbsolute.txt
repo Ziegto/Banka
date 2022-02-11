@@ -1,0 +1,17 @@
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaKnihovna\bin\Debug\BankaKnihovna.dll
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaKnihovna\bin\Debug\BankaKnihovna.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaKnihovna\obj\Debug\BankaKnihovna.csproj.CoreCompileInputs.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaKnihovna\obj\Debug\BankaKnihovna.dll
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Plocha\banka_c#\Banka\BankaKnihovna\obj\Debug\BankaKnihovna.pdb
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaKnihovna\bin\Debug\BankaKnihovna.dll
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaKnihovna\bin\Debug\BankaKnihovna.pdb
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaKnihovna\obj\Debug\BankaKnihovna.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaKnihovna\obj\Debug\BankaKnihovna.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaKnihovna\obj\Debug\BankaKnihovna.dll
+C:\Users\tomas\Desktop\banka_c#\Banka\BankaKnihovna\obj\Debug\BankaKnihovna.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaKnihovna\bin\Debug\BankaKnihovna.dll
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaKnihovna\bin\Debug\BankaKnihovna.pdb
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaKnihovna\obj\Debug\BankaKnihovna.csproj.AssemblyReference.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaKnihovna\obj\Debug\BankaKnihovna.csproj.CoreCompileInputs.cache
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaKnihovna\obj\Debug\BankaKnihovna.dll
+C:\Users\tomas.ziegler\OneDrive - Střední škola teleinformatiky, Ostrava, příspěvková organizace\Maturita\_MATURITA\Praktická\P_8\Banka_C#\BankaKnihovna\obj\Debug\BankaKnihovna.pdb
